@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#app{
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    background-color:black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+span {
+    display: inline-block;
+    border-radius: 50%;
+    color: white;
+    background-color:red;
+    text-align: center;
+    cursor: pointer;
+}
+
+.line {
+    text-decoration: line-through;
+}
